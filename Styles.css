@@ -1,0 +1,85 @@
+.jumbotron {
+  background-color: #009688;
+  background-size: cover;
+  height: auto;
+}
+
+h1 {
+  height: 50px;
+  color: black;
+  background-size: auto;
+  background-color: #009688;
+}
+
+.page-header {
+  color: black;
+  background-size: auto;
+  background-color: #009688;
+}
+
+img {
+  width: 200px;
+  border-color: #009688;
+  border-width: thick;
+  border-style: groove;
+}
+
+#gradpic {
+  width: 500px;
+  height: 200px;
+}
+
+#parents {
+  width: 300px;
+  height: 500px;
+}
+
+#Nantucket{
+  width: 500px;
+  height: 200px;
+}
+
+  body
+  { padding-bottom: 70px; }
+
+  li {
+    list-style-type: none;
+}
+
+body {
+  font-family: 'Jaldi', sans-serif;
+  font-weight: 500;
+}
+
+#summary {
+  font-size: 18px;
+}
+
+#helpfullinks {
+  border-color: #009688;
+  border-width: thick;
+  border-style: groove;
+  border-left: thick;
+}
+
+#voting {
+  height: 150px;
+  background-image: url(Vote.jpg);
+  background-repeat: no-repeat;
+  background-size:700px;
+}
+
+#schoolboard {
+  height: 150px;
+  background-image: url(Chalkboard.jpg);
+  background-repeat: no-repeat;
+  background-size:715px;
+}
+
+#button1 {
+  background-color: #009688;
+}
+
+#button2 {
+  background-color: #009688;
+}
